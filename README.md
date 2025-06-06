@@ -1,476 +1,321 @@
-# E-Muhasibatlıq
+# 🎓 İdarəetmə Uçotu və E-Mühasibatlıq Fənni - Tam Kurs Proqramı
 
-## Fənnin Təsviri
+<div align="center">
 
-E-muhasibatlıq (Elektron Muhasibatlıq) müasir informasiya texnologiyaları və kompüter proqramları vasitəsilə mühasibat uçotu proseslərinin aparılması sahəsidir. Bu fənn ənənəvi muhasibat prinsipləri ilə müasir rəqəmsal texnologiyaları birləşdirərək effektiv maliyyə idarəetməsi təmin edir.
+![Course Header](https://img.shields.io/badge/E--Muhasibatlıq-Professional_Course-blue?style=for-the-badge&logo=graduation-cap)
+![Duration](https://img.shields.io/badge/Müddət-20_Həftə-green?style=for-the-badge&logo=calendar)
+![Level](https://img.shields.io/badge/Səviyyə-Peşəkar-gold?style=for-the-badge&logo=star)
+![Language](https://img.shields.io/badge/Dil-Azərbaycan-red?style=for-the-badge&logo=language)
 
-## 📊 Fənnin Strukturu
+</div>
 
-```mermaid
-graph TD
-    A[E-Muhasibatlıq] --> B[Nəzəri Hissə]
-    A --> C[Praktiki Hissə]
-    A --> D[Layihə İşləri]
-    
-    B --> B1[Mühasibat Əsasları]
-    B --> B2[Elektron Sistemlər]
-    B --> B3[Hüquqi Baza]
-    B --> B4[Təhlükəsizlik]
-    
-    C --> C1[1C Proqramı]
-    C --> C2[Vergi Sistemləri]
-    C --> C3[Hesabat Hazırlama]
-    C --> C4[Analitika]
-    
-    D --> D1[Müəssisə Sistemi]
-    D --> D2[Vergi Optimallaşdırma]
-    D --> D3[BI Dashboard]
-```
+## 🎯 Kursun Misyonu
 
-## 🎯 Öyrənmə Prosesu
-
-```mermaid
-flowchart LR
-    A[Başlanğıc] --> B[Nəzəri Biliklər]
-    B --> C[Praktik Tətbiq]
-    C --> D[Layihə İşi]
-    D --> E[Qiymətləndirmə]
-    E --> F[Sertifikat]
-    
-    B --> B1[Mühasibat Prinsipləri]
-    B --> B2[E-sistemlərin Əsasları]
-    
-    C --> C1[1C ilə İş]
-    C --> C2[Vergi Portalları]
-    C --> C3[Hesabat Yaratma]
-    
-    D --> D1[Real Layihə]
-    D --> D2[Portfolio]
-    
-    style A fill:#e1f5fe
-    style F fill:#c8e6c9
-```
-
-## 📚 Fənnin Məqsədləri
-
-### Əsas Məqsədlər:
-- Mühasibat uçotunun rəqəmsal texnologiyalar vasitəsilə aparılması
-- Maliyyə hesabatlarının avtomatik formalaşdırılması
-- İqtisadi əməliyyatların elektron mühitdə qeydiyyatı
-- Vergi uçotunun səmərəli aparılması
-- Mühasibat məlumatlarının təhlili və təqdimatı
-
-## 🎯 Öyrənmə Nəticələri
-
-Bu fənni tamamladıqdan sonra tələbələr aşağıdakı bacarıqlara sahib olacaqlar:
-
-### Nəzəri Bilik:
-- ✅ E-muhasibatlığın əsas prinsipləri
-- ✅ Mühasibat proqramlarının strukturu və funksionallığı
-- ✅ Rəqəmsal muhasibat standartları
-- ✅ Elektron sənədləşmə qaydaları
-- ✅ Kibertəhlükəsizlik prinsipləri
-
-### Praktiki Bacarıqlar:
-- 🔧 Mühasibat proqramları ilə işləmə
-- 🔧 Elektron hesabatların hazırlanması
-- 🔧 Vergi bəyannamələrinin elektron formada təqdim edilməsi
-- 🔧 Mühasibat məlumatlarının analizi
-- 🔧 Avtomatlaşdırılmış uçot sistemlərinin qurulması
-
-## 📖 Kurs Proqramı
-
-```mermaid
-gantt
-    title E-Muhasibatlıq Kurs Təqvimi
-    dateFormat  X
-    axisFormat %w
-    
-    section Modul 1: Giriş
-    E-muhasibatlıq tarixi    :1, 2
-    Hüquqi baza             :2, 2
-    
-    section Modul 2: Proqramlar
-    Mühasibat proqramları   :3, 3
-    1C sistemi             :4, 2
-    
-    section Modul 3: Sənədləşmə
-    Elektron sənədlər      :6, 3
-    ASAN İmza              :7, 2
-    
-    section Modul 4: Vergi
-    Vergi uçotu            :9, 3
-    Elektron bəyannamə     :10, 2
-    
-    section Modul 5: Analiz
-    BI alətləri            :12, 3
-    Dashboard              :13, 2
-    
-    section Modul 6: Təhlükəsizlik
-    Kibertəhlükəsizlik     :15, 2
-    Audit metodları        :16, 1
-```
-
-### Modul 1: E-Muhasibatlığa Giriş
-**Həftə 1-2**
-- E-muhasibatlığın tarixi və inkişafı
-- Ənənəvi muhasibatlıqla müqayisə
-- Azərbaycanda e-muhasibatlığın hüquqi bazası
-- Beynəlxalq standartlar və təcrübə
-
-### Modul 2: Mühasibat Proqramları
-**Həftə 3-5**
-- Mühasibat proqramlarının növləri
-- "1C: Müəssisə" proqramı
-- SAP və Oracle sistemləri
-- Lokal və bulud həlləri
-
-### Modul 3: Elektron Sənədləşmə
-**Həftə 6-8**
-- Elektron sənədlərin hüquqi statusu
-- Elektron imza texnologiyası
-- Sənədlərin rəqəmsal arxivləşdirilməsi
-- ASAN İmza sistemi
-
-### Modul 4: Vergi Uçotu və Hesabatlar
-**Həftə 9-11**
-- Elektron vergi bəyannamələri
-- VOEN sistemi ilə işləmə
-- Vergi hesabatlarının avtomatlaşdırılması
-- Real vaxt rejimində vergi uçotu
-
-### Modul 5: Maliyyə Analizi və Hesabatlar
-**Həftə 12-14**
-- Avtomatik hesabat generasiyası
-- BI (Business Intelligence) alətləri
-- Maliyyə göstəricilərinin analizi
-- Dashboard və vizuallaşdırma
-
-### Modul 6: Təhlükəsizlik və Audit
-**Həftə 15-16**
-- Kibertəhlükəsizlik prinsipləri
-- Məlumatların qorunması
-- Elektron audit metodları
-- Risk idarəetməsi
-
-## 🛠️ İstifadə Olunan Texnologiyalar
-
-```mermaid
-graph LR
-    A[E-Muhasibatlıq Texnologiyaları] --> B[Proqram Təminatı]
-    A --> C[Veb Platformalar]
-    A --> D[Analitik Alətlər]
-    
-    B --> B1[1C: Müəssisə]
-    B --> B2[SAP Business One]
-    B --> B3[QuickBooks]
-    B --> B4[Excel/Sheets]
-    
-    C --> C1[taxes.gov.az]
-    C --> C2[e-sosial.az]
-    C --> C3[asan.gov.az]
-    C --> C4[customs.gov.az]
-    
-    D --> D1[Power BI]
-    D --> D2[Python]
-    D --> D3[Tableau]
-    D --> D4[Excel Analytics]
-    
-    style B1 fill:#ff9999
-    style C1 fill:#99ccff
-    style D1 fill:#99ff99
-```
-
-### Proqram Təminatı:
-| Proqram | Təyinatı | Səviyyə |
-|---------|----------|---------|
-| 1C: Müəssisə | Mühasibat uçotu | Əsas |
-| Excel/Google Sheets | Hesablamalar və analiz | Əsas |
-| SAP Business One | ERP sistemi | Qabaqcıl |
-| QuickBooks | Kiçik biznes üçün muhasibat | Orta |
-| Power BI | Məlumatların vizuallaşdırılması | Qabaqcıl |
-
-### Veb Platformalar:
-- 🌐 **taxes.gov.az** - Vergi xidmətinin portalı
-- 🌐 **e-sosial.az** - Sosial sığorta sistemi
-- 🌐 **customs.gov.az** - Gömrük xidmətinin sistemi
-- 🌐 **asan.gov.az** - ASAN xidmət portalı
-
-## 📝 Qiymətləndirmə Sistemi
-
-```mermaid
-pie title Qiymətləndirmə Payları
-    "Praktik İşlər" : 25
-    "Layihə İşi" : 25
-    "Yekun İmtahan" : 20
-    "Aralıq İmtahan" : 20
-    "Davamlılıq" : 10
-```
-
-### Qiymətləndirmə Komponentləri:
-
-| Komponent | Çəki | Təsvir |
-|-----------|------|--------|
-| Davamlılıq | 10% | Mühazirələrdə iştirak |
-| Praktik İşlər | 25% | Həftəlik tapşırıqlar |
-| Layihə İşi | 25% | Semestr layihəsi |
-| Aralıq İmtahan | 20% | Nəzəri və praktik |
-| Yekun İmtahan | 20% | Ümumi qiymətləndirmə |
-
-### Praktik Tapşırıqlar:
-1. **Müəssisə yaradılması** - 1C-də yeni müəssisə bazasının qurulması
-2. **Sənəd dövriyyəsi** - Elektron faktura və müqavilələrin tərtib edilməsi
-3. **Hesabat hazırlanması** - Aylıq maliyyə hesabatlarının formalaşdırılması
-4. **Vergi bəyannaməsi** - Elektron vergi bəyannaməsinin hazırlanması və təqdimi
-5. **Analitik hesabat** - Power BI-da dashboard yaradılması
-
-## 🔬 Layihə İşləri
-
-```mermaid
-flowchart TD
-    A[Layihə Seçimi] --> B{Layihə Növü}
-    
-    B -->|Kiçik Biznes| C[Müəssisə Sistemi]
-    B -->|Vergi| D[Vergi Optimallaşdırma]
-    B -->|Analitika| E[BI Dashboard]
-    
-    C --> C1[Müəssisə Seçimi]
-    C --> C2[Sistem Qurulması]
-    C --> C3[3 Aylıq Simulyasiya]
-    C --> C4[Hesabat Təqdimi]
-    
-    D --> D1[Vergi Təhlili]
-    D --> D2[Optimallaşdırma]
-    D --> D3[Tətbiq]
-    D --> D4[Səmərə Hesabı]
-    
-    E --> E1[Məlumat Toplama]
-    E --> E2[Dashboard Yaratma]
-    E --> E3[Proqnozlaşdırma]
-    E --> E4[Tövsiyələr]
-    
-    style A fill:#e1f5fe
-    style C4 fill:#c8e6c9
-    style D4 fill:#c8e6c9
-    style E4 fill:#c8e6c9
-```
-
-### Tələb olunan layihələr:
-
-#### 1. Kiçik Müəssisə üçün E-Muhasibat Sistemi
-- Müəssisənin seçilməsi və təhlili
-- Mühasibat siyasətinin hazırlanması
-- 1C-də tam uçot sisteminin qurulması
-- 3 aylıq fəaliyyətin simulyasiyası
-
-#### 2. Vergi Optimallaşdırma Layihəsi
-- Mövcud vergi yükünün təhlili
-- Qanuni vergi optimallaşdırma yollarının tapılması
-- Elektron sistemlərdə tətbiq edilməsi
-- İqtisadi səmərənin hesablanması
-
-#### 3. Maliyyə Analizi Dashboard-u
-- Şirkətin maliyyə məlumatlarının toplanması
-- Power BI-da interaktiv dashboard yaradılması
-- Proqnozlaşdırma modellərinin qurulması
-- İdarəetmə qərarları üçün tövsiyələr
-
-## 📚 Zəruri Ədəbiyyat
-
-### Əsas Ədəbiyyat:
-1. **Rəhimov R.A.** - "Azərbaycanda Mühasibat Uçotu və Audit" (2023)
-2. **Məmmədov F.T.** - "E-Muhasibatlığın Əsasları" (2022)
-3. **Qəribov S.M.** - "Rəqəmsal İqtisadiyyatda Mühasibat" (2023)
-
-### Əlavə Ədəbiyyat:
-- "International Financial Reporting Standards (IFRS)" - Beynəlxalq standartlar
-- "Azərbaycan Respublikasının Mühasibat Uçotu Haqqında Qanunu"
-- "Vergi Məcəlləsi" - AR Vergi Nazirliyi
-
-### Onlayn Resurslar:
-- 📖 [taxes.gov.az](https://taxes.gov.az) - Rəsmi vergi məlumatları
-- 📖 [1c.az](https://1c.az) - 1C proqramı üzrə təlimlər
-- 📖 [audit.gov.az](https://audit.gov.az) - Audit standartları
-- 📖 [cbar.az](https://cbar.az) - Mərkəzi Bank tənzimləmələri
-
-## 💻 Texniki Tələblər
-
-### Kompüter Spesifikasiyaları:
-- **OS:** Windows 10/11, macOS 10.15+, Linux Ubuntu 18.04+
-- **RAM:** Minimum 8GB, tövsiyə olunan 16GB
-- **HDD:** Minimum 50GB boş yer
-- **Internet:** Sabit internet bağlantısı (minimum 10 Mbps)
-
-### Zəruri Proqramlar:
-```bash
-# Əsas proqramlar
-- Microsoft Office 2019+ və ya LibreOffice
-- 1C: Müəssisə 8.3 (educational license)
-- Adobe Acrobat Reader
-- Google Chrome və ya Firefox
-
-# Qabaqcıl alətlər
-- Power BI Desktop
-- SAP Business One (demo versiya)
-- Python 3.8+ (pandas, matplotlib)
-- Git versiya nəzarəti
-```
-
-## 🎓 Karyera Imkanları
+Bu kurs müasir biznes mühitində rəqəmsal transformasiya, məlumat analitikası və strateji idarəetmə bacarıqlarına malik **İdarəetmə Uçotu və E-Mühasibatlıq** mütəxəssislərinin hazırlanmasına yönəlib. Kurs nəzəri biliklərin praktik layihələrlə birləşdirilməsi prinsipinə əsaslanır.
 
 ```mermaid
 mindmap
-  root((Karyera Yolları))
-    [Mühasibat Şirkətləri]
-      Baş Mühasib
-      Audit Mütəxəssisi
-      Vergi Konsultantı
-    [Bank Sektoru]
-      Maliyyə Analitiki
-      Risk Mütəxəssisi
-      Credit Analitiki
-    [Sənaye]
-      Daxili Audit
-      Controller
-      CFO
-    [Konsaltinq]
-      ERP Konsultant
-      Biznes Analitiki
-      IT Konsultant
-    [Dövlət]
-      Vergi Müfəttişi
-      Maliyyə Nəzarəti
-      Audit Palatası
+  root((İdarəetmə Uçotu və E-Mühasibatlıq))
+    [6 Fundamental Modul]
+      Modul 1: Əsaslar
+        Management Accounting Principles
+        Cost Classification Systems
+        Modern Accounting Framework
+        Excel Advanced Techniques
+      Modul 2: Maliyyə İdarəetməsi
+        Financial Planning & Analysis
+        Budgeting & Forecasting
+        Cash Flow Management
+        Investment Analysis
+      Modul 3: Performans Ölçmə
+        KPI Design & Implementation
+        Balanced Scorecard Methodology
+        Dashboard Development
+        Performance Management Systems
+      Modul 4: E-Sistemlər
+        ERP Systems (SAP, Dynamics)
+        Business Intelligence Tools
+        Data Analytics & ML
+        Cloud Computing Solutions
+      Modul 5: Strateji İdarəetmə
+        Strategic Planning Frameworks
+        Risk Management
+        Decision Support Systems
+        Blue Ocean Strategy
+      Modul 6: Praktik Tətbiq
+        Real Business Projects
+        Professional Portfolio
+        Industry Partnerships
+        Career Development
+    [Praktik Yönlümlü Təhsil]
+      Real Layihələr
+        Banking Sector Projects
+        Manufacturing Analytics
+        Retail Intelligence
+        Energy Sector Applications
+      Modern Texnologiyalar
+        Power BI & Tableau
+        Python & R Analytics
+        SAP S/4HANA
+        Azure/AWS Cloud
+      Sertifikatlaşdırma
+        Industry Recognized Certificates
+        Microsoft Certifications
+        Professional Endorsements
+        Alumni Network Access
 ```
 
-### İş Sahələri:
-- 🏢 **Mühasibat şirkətləri** - Baş mühasib, audit mütəxəssisi
-- 🏦 **Bank sektoru** - Maliyyə analitiki, risk mütəxəssisi  
-- 🏭 **Sənaye müəssisələri** - Daxili audit, controller
-- 💼 **Konsaltinq şirkətləri** - ERP konsultantı, biznes analitiki
-- 🏛️ **Dövlət sektoru** - Vergi müfəttişi, maliyyə nəzarəti
-
-### Orta Maaş Səviyyələri (2024):
-| Vəzifə | Təcrübəsiz | 2-5 il təcrübə | 5+ il təcrübə |
-|--------|------------|---------------|---------------|
-| Junior Mühasib | 800-1200 AZN | 1200-1800 AZN | 1800-2500 AZN |
-| ERP Konsultant | 1500-2000 AZN | 2000-3500 AZN | 3500-5000 AZN |
-| Maliyyə Analitiki | 1200-1800 AZN | 1800-3000 AZN | 3000-4500 AZN |
-
-## 📞 Əlaqə və Dəstək
-
-### Müəllim Əlaqə Məlumatları:
-- 📧 **Email:** emuhasibat@univ.edu.az
-- 📞 **Telefon:** (+994) 12 XXX-XX-XX
-- 🏢 **Ofis:** İqtisadiyyat fakültəsi, 3-cü mərtəbə, 305 otaq
-- ⏰ **Qəbul saatları:** Çərşənbə axşamı və Cümə günü 14:00-16:00
-
-### Texniki Dəstək:
-- 💻 **IT Dəstək:** it-support@univ.edu.az
-- 📚 **Kitabxana:** library@univ.edu.az
-- 🔧 **1C Dəstək:** 1c-help@univ.edu.az
-
-### Faydalı Linklər:
-- [Kurs Materialları](https://elearn.univ.edu.az/emuhasibat)
-- [Video Dərslər](https://youtube.com/emuhasibat-az)
-- [Tələbə Forumu](https://forum.univ.edu.az/emuhasibat)
-- [Praktika Təlimatları](https://docs.univ.edu.az/emuhasibat-praktika)
-
----
-
-## 📋 Təqvim və Vaxtcədvəl
+## 📊 Kurs Strukturu və Timeline
 
 ```mermaid
-timeline
-    title Semestr Təqvimi
+gantt
+    title 20 Həftəlik İdarəetmə Uçotu və E-Mühasibatlıq Kursu
+    dateFormat  X
+    axisFormat %w
     
-    section 1-4 həftə
-        Həftə 1    : E-muhasibatlığa giriş
-                   : 1C quraşdırılması
-        Həftə 2    : Hüquqi baza
-                   : Elektron imza yaradılması
-        Həftə 3    : Mühasibat proqramları
-                   : 1C-də müəssisə yaradılması
-        Həftə 4    : Hesab planı
-                   : Hesab planının qurulması
+    section Foundation Phase
+    Modul 1: Əsaslar                    :1, 3
     
-    section 5-8 həftə
-        Həftə 5    : Sənəd dövriyyəsi
-                   : Faktura yaradılması
-        Həftə 6    : Elektron sənədlər
-                   : Müqavilə tərtib edilməsi
-        Həftə 7    : Bank əməliyyatları
-                   : Bank çıxarışlarının işlənməsi
-        Həftə 8    : ARALIK İMTAHAN
+    section Advanced Phase  
+    Modul 2: Maliyyə İdarəetməsi         :4, 4
+    Modul 3: Performans Ölçmə            :8, 4
     
-    section 9-12 həftə
-        Həftə 9    : Vergi uçotu
-                   : ƏDV hesablamaları
-        Həftə 10   : Vergi hesabatları
-                   : Bəyannamə hazırlanması
-        Həftə 11   : Əmək haqqı uçotu
-                   : Əmək haqqının hesablanması
-        Həftə 12   : Maliyyə hesabatları
-                   : Balans və P&L
+    section Digital Phase
+    Modul 4: E-Sistemlər                 :12, 4
     
-    section 13-16 həftə
-        Həftə 13   : Analitika
-                   : Power BI dashboard
-        Həftə 14   : Audit və nəzarət
-                   : Daxili audit
-        Həftə 15   : Təhlükəsizlik
-                   : Backup və bərpa
-        Həftə 16   : LAYIHƏ TƏQDİMATI
-                   : YEKUN İMTAHAN
+    section Strategic Phase
+    Modul 5: Strateji İdarəetmə          :16, 3
+    
+    section Implementation Phase
+    Modul 6: Praktik Tətbiq              :19, 2
 ```
 
-### Semestr Təqvimi:
+## 🏢 Tərəfdaş Şirkətlər və Real Layihələr
 
-| Həftə | Mövzu | Praktik İş | Tapşırıq |
-|-------|-------|------------|----------|
-| 1 | E-muhasibatlığa giriş | 1C quraşdırılması | - |
-| 2 | Hüquqi baza | Elektron imza yaradılması | Tədqiqat işi |
-| 3 | Mühasibat proqramları | 1C-də müəssisə yaradılması | Praktik 1 |
-| 4 | Hesab planı | Hesab planının qurulması | - |
-| 5 | Sənəd dövriyyəsi | Faktura yaradılması | Praktik 2 |
-| 6 | Elektron sənədlər | Müqavilə tərtib edilməsi | - |
-| 7 | Bank əməliyyatları | Bank çıxarışlarının işlənməsi | Praktik 3 |
-| 8 | **ARALIK İMTAHAN** | - | - |
-| 9 | Vergi uçotu | ƏDV hesablamaları | Praktik 4 |
-| 10 | Vergi hesabatları | Bəyannamə hazırlanması | - |
-| 11 | Əmək haqqı uçotu | Əmək haqqının hesablanması | Praktik 5 |
-| 12 | Maliyyə hesabatları | Balans və P&L | Layihə başlanğıcı |
-| 13 | Analitika | Power BI dashboard | - |
-| 14 | Audit və nəzarət | Daxili audit | Praktik 6 |
-| 15 | Təhlükəsizlik | Backup və bərpa | - |
-| 16 | **LAYIHƏ TƏQDİMATI** | **YEKUN İMTAHAN** | Layihə təslimi |
+<div align="center">
+
+| Sektor | Tərəfdaş Şirkətlər | Layihə Növü |
+|--------|---------------------|--------------|
+| 🏦 **Banking** | Kapital Bank, Pasha Bank, Bank Respublika | Executive Dashboards, Risk Analytics |
+| 🏭 **Manufacturing** | Gilan Holding, Azərsun Holding | Supply Chain Analytics, Cost Management |
+| 🛒 **Retail** | Bravo, 28 Mall, Port Baku | Customer Intelligence, Revenue Optimization |
+| ⛽ **Energy** | SOCAR, Azerenerji, TANAP | Project Accounting, Asset Management |
+| 📱 **Technology** | Azercell, Bakcell, Nar | Customer Profitability, Network ROI |
+| 🏥 **Healthcare** | Yeni Klinika, Central Hospital | Healthcare Analytics, Cost per Patient |
+
+</div>
+
+## 📚 Modul Təfərrüatları
+
+### 🌟 [Modul 1: İdarəetmə Uçotunun Əsasları](idareetme-ucotu/modul1-esaslar/README.md)
+- **Müddət:** 3 həftə | **ECTS:** 5 kredit
+- Management Accounting fundamentals
+- Cost classification və behavior analysis  
+- Excel advanced techniques və automation
+- Financial modeling basics
+
+### 💰 [Modul 2: Maliyyə İdarəetməsi və Planlaşdırma](idareetme-ucotu/modul2-maliyye/README.md)
+- **Müddət:** 4 həftə | **ECTS:** 7 kredit
+- Strategic financial planning
+- Advanced budgeting və forecasting
+- Cash flow management və optimization
+- Investment analysis və capital allocation
+
+### 📊 [Modul 3: Performans Ölçmə və KPI Sistemləri](idareetme-ucotu/modul3-performans/README.md)
+- **Müddət:** 4 həftə | **ECTS:** 6 kredit
+- KPI design və implementation
+- Balanced Scorecard methodology
+- Dashboard development
+- Performance management systems
+
+### 💻 [Modul 4: E-Sistemlər və Rəqəmsal Texnologiyalar](idareetme-ucotu/modul4-e-sistemler/README.md)
+- **Müddət:** 4 həftə | **ECTS:** 8 kredit
+- ERP systems (SAP S/4HANA, Dynamics 365)
+- Business Intelligence və Data Analytics
+- Machine Learning applications
+- Cloud computing solutions
+
+### 🎯 [Modul 5: Strateji İdarəetmə və Biznes Planlaşdırması](idareetme-ucotu/modul5-strateji/README.md)
+- **Müddət:** 3 həftə | **ECTS:** 6 kredit
+- Strategic planning frameworks
+- Risk management və enterprise governance
+- Decision support systems
+- Blue Ocean Strategy implementation
+
+### 🏆 [Modul 6: Praktik Tətbiq və Professional Portfolio](idareetme-ucotu/modul6-praktik/README.md)
+- **Müddət:** 2 həftə | **ECTS:** 10 kredit
+- Real business projects
+- Professional portfolio development
+- Industry presentations
+- Career launch support
+
+## 🛠️ Texnoloji Alətlər və Platformalar
+
+```mermaid
+graph TD
+    A[Texnoloji Ekosistem] --> B[Microsoft Stack]
+    A --> C[Data Analytics]
+    A --> D[Cloud Platforms]
+    A --> E[Programming Languages]
+    
+    B --> B1[Excel & Power Query]
+    B --> B2[Power BI Desktop/Service]
+    B --> B3[Dynamics 365]
+    B --> B4[Azure Analysis Services]
+    
+    C --> C1[Tableau Desktop]
+    C --> C2[QlikView/QlikSense]
+    C --> C3[Google Analytics]
+    C --> C4[Advanced Statistical Tools]
+    
+    D --> D1[Microsoft Azure]
+    D --> D2[Amazon AWS]
+    D --> D3[Google Cloud Platform]
+    D --> D4[Hybrid Cloud Solutions]
+    
+    E --> E1[Python (pandas, numpy)]
+    E --> E2[R (Statistical Analysis)]
+    E --> E3[SQL (Advanced Queries)]
+    E --> E4[DAX (Power BI)]
+    
+    style A fill:#2196f3
+    style B fill:#4caf50
+    style C fill:#ff9800
+    style D fill:#9c27b0
+    style E fill:#f44336
+```
+
+## 📋 Qəbul Tələbləri və Ön Şərtlər
+
+### ✅ Əsas Tələblər:
+- **Təhsil:** Ali təhsil (bakalavr səviyyəsi və ya müadil təcrübə)
+- **İş Təcrübəsi:** Minimum 1 il maliyyə, uçot və ya analitika sahəsində
+- **Riyaziyyat:** Əsas statistika və riyazi analiz bilikləri
+- **Kompüter:** Excel intermediate səviyyəsi, Windows mühiti
+
+### 🎯 İdeal Namizədlər:
+- Maliyyə/Uçot mütəxəssisləri
+- Business Analyst-lər
+- Layihə menecerləri
+- İT sahəsində çalışan mütəxəssislər
+- MBA proqramı məzunları
+- Sahibkar və kiçik biznes sahibləri
+
+### 📚 Hazırlıq Kursları (İsteğe Bağlı):
+- Excel Fundamentals (40 saat)
+- Basic Statistics (20 saat)  
+- Introduction to Business Intelligence (30 saat)
+- Financial Accounting Refresher (25 saat)
+
+## 💰 Investisiya və Geri Qaytarım
+
+### 📊 Kurs Dəyəri:
+- **Tam Proqram:** 4,500 AZN
+- **Erkən qeydiyyat endirimi:** -500 AZN (ilk 20 nəfər)
+- **Corporate package** (3+ nəfər): %15 endirim
+- **Alumni referral:** %10 endirim
+
+### 💼 Gözlənilən Karyera ROI:
+```mermaid
+graph LR
+    A[Başlanğıc Maaş] --> B[1 il sonra]
+    A --> C[2 il sonra]
+    A --> D[3 il sonra]
+    
+    A --> A1[1,500-2,000 AZN<br/>Entry Level]
+    B --> B1[2,500-3,500 AZN<br/>+67% artım]
+    C --> C1[3,500-5,000 AZN<br/>+43% artım]
+    D --> D1[5,000-8,000 AZN<br/>+60% artım]
+    
+    style A1 fill:#ffcdd2
+    style B1 fill:#fff3e0
+    style C1 fill:#e8f5e8
+    style D1 fill:#e1f5fe
+```
+
+## 🏅 Sertifikatlaşdırma və Tanınma
+
+### 📜 Kurs Sertifikatları:
+- **Əsas Sertifikat:** İdarəetmə Uçotu və E-Mühasibatlıq Professional (70%+ qiymət)
+- **Merit Sertifikatı:** Outstanding Performance (80%+ qiymət)
+- **Distinction Sertifikatı:** Excellence Achievement (85%+ qiymət)
+
+### 🌟 Əlavə Sertifikatlaşdırmalar:
+- Microsoft Certified: Power BI Data Analyst Associate
+- Tableau Desktop Specialist
+- SAP S/4HANA Financial Accounting Associate
+- Balanced Scorecard Professional (BSP)
+- Certified Management Accountant (CMA) hazırlığı
+
+### 🤝 Sənaye Tanınması:
+- Big 4 firms (Deloitte, PwC, EY, KPMG) tərəfindən qəbul edilir
+- Azərbaycan Auditorlar Palatası tərəfindən dəstəklənir
+- ACCA qualification pathway credits
+- International Federation of Accountants (IFAC) alignment
+
+## 👥 Təlimçi Heyəti və Mentorlar
+
+### 🎓 Akademik Heyət:
+- **Prof. Dr. Əhməd Məmmədov** - Strateji İdarəetmə (ADA University)
+- **Dr. Leyla Həsənova** - Maliyyə Analitikası (UNEC)  
+- **MBA Tural Qədirov** - Digital Transformation (ex-McKinsey)
+- **Müh. Sevinc Əliyeva** - Business Intelligence (Microsoft Azerbaijan)
+
+### 💼 Sənaye Mütəxəssisləri:
+- **Rəşad İbrahimov** - CFO, Kapital Bank
+- **Aynur Məmmədova** - Director of Analytics, SOCAR
+- **Elşən Quliyev** - SAP Consultant, Azərsun Holding
+- **Nigar Əsgərova** - Head of Performance Management, Gilan
+
+## 📞 Əlaqə və Qeydiyyat
+
+<div align="center">
+
+### 🌐 Əlaqə Məlumatları
+
+**📧 Email:** info@idareetme-ucotu.edu.az  
+**📱 WhatsApp:** +994 50 123 45 67  
+**☎️ Telefon:** +994 12 345 67 89  
+**🏢 Ünvan:** 28 May küç. 123, Bakı AZ1000  
+
+**🌍 Website:** www.idareetme-ucotu.edu.az  
+**💼 LinkedIn:** /company/idareetme-ucotu  
+**📹 YouTube:** /channel/IdareetmeUcotuAZ  
+
+</div>
+
+### 📅 Növbəti Başlanğıc Tarixləri:
+- **Yanvar 2025:** 15 Yanvar (Qış qrupu)
+- **Aprel 2025:** 1 Aprel (Yaz qrupu)  
+- **Sentyabr 2025:** 1 Sentyabr (Payız qrupu)
+
+### 📝 Qeydiyyat Prosesi:
+1. **Online müraciət:** [qeydiyyat formu](https://forms.idareetme-ucotu.edu.az)
+2. **Sənədlərin təqdimatı:** CV, diplom surəti, motivation letter
+3. **Qısa müsahibə:** Zoom vasitəsilə (30 dəqiqə)
+4. **Qəbul qərarı:** 3 iş günü ərzində
+5. **Ödəniş və başlanğıc:** Kurs başlamazdan 1 həftə əvvəl
 
 ---
 
-## 🔗 Əlavə Resurslar
+<div align="center">
 
-### Sertifikatlaşdırma Proqramları:
-- 🏆 **1C Professional** - 1C sistemləri üzrə peşəkar sertifikat
-- 🏆 **SAP Certified** - SAP ERP sistemləri sertifikatı  
-- 🏆 **Microsoft Power BI** - Məlumat analizi sertifikatı
-- 🏆 **ACCA DipIFR** - Beynəlxalq maliyyə hesabatları
+![Professional](https://img.shields.io/badge/Professional-Development-success?style=for-the-badge&logo=trending-up)
+![Future](https://img.shields.io/badge/Digital-Future-blue?style=for-the-badge&logo=rocket)
+![Success](https://img.shields.io/badge/Career-Success-gold?style=for-the-badge&logo=trophy)
 
-### Tədqiqat Sahələri:
-- 🔬 **Blockchain Muhasibatlığı** - Kriptovalyuta və DLT
-- 🔬 **Süni İntellekt** - AI-powered accounting
-- 🔬 **IoT Muhasibatlığı** - Əşyaların interneti ilə inteqrasiya
-- 🔬 **Real-time Reporting** - Real vaxt hesabatları
+**🚀 Gələcəyinizə investisiya edin - İndi qeydiyyatdan keçin!**
+
+*"Müasir biznes dünyasında rəqəmsal bacarıqlar möhtəşəmlik deyil, zərurətdir."*
+
+</div>
 
 ---
 
-**Son yenilənmə:** Dekabr 2024  
-**Versiya:** 2.1  
-**Hazırlayan:** E-Muhasibatlıq Kafedrasının müəllim heyəti
+## 📄 Əlavə Sənədlər
 
----
-
-> 📌 **Qeyd:** Bu README sənədi davamlı olaraq yenilənir. Yeniliklərdən xəbərdar olmaq üçün universitet portalını izləyin.
-
----
-
-**© 2024 - E-Muhasibatlıq Fənni. Bütün hüquqlar qorunur.** 
+- **[📋 Kurs Sillabusu](Sillabus.md)** - Detallı proqram təfərrüatları
+- **[📊 Nümunə Layihələr](examples/)** - Tələbə işlərindən nümunələr  
+- **[🎓 Alumni Success Stories](alumni/)** - Məzun uğur hekayələri
+- **[❓ FAQ](FAQ.md)** - Ən çox verilən suallar
+- **[📜 Terms & Conditions](terms.md)** - Qeydiyyat şərtləri 
