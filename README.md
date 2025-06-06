@@ -6,6 +6,7 @@
 ![Duration](https://img.shields.io/badge/Müddət-45_Saat-green?style=for-the-badge&logo=clock)
 ![Credits](https://img.shields.io/badge/Kredit-3_ECTS-orange?style=for-the-badge&logo=graduation-cap)
 ![Level](https://img.shields.io/badge/Səviyyə-Bakalavr-gold?style=for-the-badge&logo=academic-cap)
+![Modern](https://img.shields.io/badge/Technology-AI_Powered-purple?style=for-the-badge&logo=robot)
 
 </div>
 
@@ -25,326 +26,370 @@
 
 ## 🎯 Fənnin Məqsədi
 
-Bu fənn tələbələrə müasir biznes mühitində **idarəetmə uçotu** və **elektron mühasibatlıq** sistemlərinin əsas prinsiplərini öyrətmək, praktik bacarıqlar formalaşdırmaq və rəqəmsal alətlərdən istifadə qabiliyyətini inkişaf etdirmək məqsədini daşıyır.
+Bu fənn tələbələrə müasir biznes mühitində **süni zəka**, **blockchain**, **cloud computing** və **robotik proses avtomatlaşdırması** əsaslı **idarəetmə uçotu** və **elektron mühasibatlıq** sistemlərinin əsas prinsiplərini öyrətmək, praktik bacarıqlar formalaşdırmaq və rəqəmsal transformasiya alətlərindən istifadə qabiliyyətini inkişaf etdirmək məqsədini daşıyır.
 
 ```mermaid
 mindmap
-  root((Idareetme Ucotu ve E-Muhasibatlig))
-    [Fenn Meqsedleri]
-      Nezeri Biliklerin Formalasdirmasi
-        Management Accounting Esaslari
-        Cost Accounting Metodlari
-        Performance Analysis
-        Budgeting Techniques
-      Praktik Bacariqlar
-        Excel Advanced Functions
-        Financial Modeling
-        Dashboard Creation
-        Data Analysis
-      E-Muhasibat Sistemleri
-        Accounting Software Usage
-        Digital Documentation
-        Cloud-based Solutions
-        Automation Tools
-    [Oyrenim Neticeleri]
-      Bilgi ve Anima
-        Cost Classification
-        Performance Metrics
-        Strategic Planning
-        Risk Assessment
-      Beceri ve Tecrube
-        Excel Proficiency
-        Financial Analysis
-        Report Generation
-        Problem Solving
-      Meslek Hazirlig
-        Industry Standards
-        Best Practices
-        Professional Ethics
-        Communication Skills
+  root((Muasir E-Muhasibatlig ve AI))
+    [Nezeri Esaslar]
+      Management Accounting 4.0
+        AI-Driven Cost Analysis
+        Predictive Analytics
+        Real-time Performance Monitoring
+        Automated Variance Analysis
+      Blockchain Accounting
+        Smart Contracts in Finance
+        Cryptocurrency Accounting
+        Immutable Ledger Systems
+        DeFi Applications
+      Cloud Computing Solutions
+        SaaS Accounting Platforms
+        Multi-tenant Architecture
+        Real-time Collaboration
+        Scalable Infrastructure
+    [Praktik Bacariqlar]
+      AI & Machine Learning
+        Python for Financial Analysis
+        TensorFlow Accounting Models
+        Automated Report Generation
+        Chatbot Implementation
+      RPA & Automation
+        UiPath Financial Processes
+        Power Automate Workflows
+        API Integration Mastery
+        Low-code Development
+      Advanced Analytics
+        Power BI Premium Features
+        Tableau Advanced Analytics
+        Google Analytics 4
+        Looker Studio Pro
+    [Muasir Texnologiyalar]
+      Emerging Technologies
+        IoT in Asset Management
+        AR/VR for Data Visualization
+        5G Impact on Real-time Reporting
+        Quantum Computing Readiness
+      Digital Transformation
+        Agile Accounting Methodologies
+        DevOps for Finance Teams
+        Digital Twin Applications
+        Metaverse Business Models
 ```
 
 ## 📖 Fənnin Məzmunu və Həftəlik Proqram
 
-### **1-ci həftə: Giriş və Əsas Anlayışlar (3 saat)**
-- İdarəetmə uçotunun tərifı və əhəmiyyəti
-- Maliyyə uçotu ilə idarəetmə uçotu arasındakı fərqlər
-- E-mühasibatlığın müasir biznes mühitindəki rolu
-- Azerbaycanda mühasibat standartları və qanunvericilik
+### **1-ci həftə: Giriş və Digital Transformation (3 saat)**
+- Müasir e-mühasibatlığın tərifı və əhəmiyyəti
+- Industry 4.0 və Accounting 4.0 konsepsiyaları
+- Digital transformation roadmap
+- **Praktikum:** Microsoft Copilot for Finance ilə tanışlıq
 
-### **2-ci həftə: Xərclərin Təsnifatı və Davranışı (3 saat)**
-- Xərclərin təsnifat metodları
-- Sabit və dəyişkən xərclər
-- Birbaşa və dolayı xərclər
-- **Praktikum:** Excel-də xərc analizi modelinin yaradılması
+### **2-ci həftə: AI və Machine Learning Mühasibatda (3 saat)**
+- Süni zəka əsasları və mühasibatda tətbiqi
+- Machine Learning for Predictive Analytics
+- Natural Language Processing (NLP) for Financial Reports
+- **Praktikum:** Python ilə financial forecasting model
 
-### **3-cü həftə: Məhsul Maya Dəyərinin Hesablanması (3 saat)**
-- Ənənəvi maya dəyəri metodları
-- Activity-Based Costing (ABC) sistemi
-- Job Costing və Process Costing
-- **Praktikum:** Maya dəyəri kalkulyatorunun hazırlanması
+### **3-cü həftə: Blockchain və Cryptocurrency Accounting (3 saat)**
+- Blockchain texnologiyasının əsasları
+- Smart contracts və mühasibat
+- Cryptocurrency və digital assets accounting
+- **Praktikum:** Solidity smart contract yazılması
 
-### **4-cü həftə: Budgetləşdirmə və Planlaşdırma (3 saat)**
-- Budget növləri və hazırlanma prosesi
-- Master budget komponentiləri
-- Çevik budgetləşdirmə (Flexible Budgeting)
-- **Praktikum:** Excel-də 12 aylıq budget modelinin yaradılması
+### **4-cü həftə: Cloud Computing və SaaS Platformalar (3 saat)**
+- Cloud accounting əsasları
+- Microsoft 365 Business Central
+- QuickBooks Online və Xero platformaları
+- **Praktikum:** Cloud-based accounting system qurulması
 
 ```mermaid
 gantt
-    title 15 Heftelik Ders Programi
+    title 15 Heftelik Muasir E-Muhasibatlig Proqrami
     dateFormat  X
     axisFormat %w
     
-    section Esaslar 1-5 Hefte
-    Giris ve Esaslar               :1, 1
-    Xerclerin Tesnifati            :2, 1
-    Maya Deyerinin Hesablanmasi    :3, 1
-    Budgetlesdirme                 :4, 1
-    Performans Analizi             :5, 1
+    section Foundation 1-5 Hefte
+    Digital Transformation         :1, 1
+    AI ve ML Muhasibatda          :2, 1
+    Blockchain ve Crypto          :3, 1
+    Cloud Computing SaaS          :4, 1
+    RPA ve Process Automation     :5, 1
     
-    section E-Sistemler 6-10 Hefte
-    Excel Advanced                 :6, 1
-    Muhasibat Proqramlari         :7, 1
-    Dashboard Yaradilmasi         :8, 1
-    Data Analysis                 :9, 1
-    Araliq Imtahan                :10, 1
+    section Advanced Tech 6-10 Hefte
+    Power BI Premium Features     :6, 1
+    IoT ve Asset Management       :7, 1
+    API Integration Mastery       :8, 1
+    Low-Code Development          :9, 1
+    Araliq Imtahan               :10, 1
     
-    section Tetbiq 11-15 Hefte
-    Case Study 1                  :11, 1
-    Case Study 2                  :12, 1
-    Layihe Hazirlanmasi          :13, 1
-    Layihe Teqdimati             :14, 1
-    Final Imtahan                 :15, 1
+    section Innovation 11-15 Hefte
+    AR VR Data Visualization     :11, 1
+    Quantum Ready Systems        :12, 1
+    Metaverse Business Models    :13, 1
+    Final AI Project             :14, 1
+    Comprehensive Assessment     :15, 1
 ```
 
-### **5-ci həftə: Performans Ölçmə və KPI-lar (3 saat)**
-- Əsas performans göstəriciləri (KPI)
-- Balanced Scorecard metodologiyası
-- Variance Analysis
-- **Praktikum:** KPI dashboard yaradılması
+### **5-ci həftə: RPA və Process Automation (3 saat)**
+- Robotic Process Automation əsasları
+- UiPath for Financial Processes
+- Power Automate workflow design
+- **Praktikum:** Invoice processing automation
 
-### **6-cı həftə: Excel İnkişaf etmiş Funksiyalar (3 saat)**
-- VLOOKUP, INDEX-MATCH funksiyaları
-- Pivot Tables və Pivot Charts
-- Conditional Formatting
-- **Praktikum:** Maliyyə analizi üçün Excel şablonları
+### **6-cı həftə: Power BI Premium və Advanced Analytics (3 saat)**
+- Power BI Premium features
+- AI visuals və Auto ML
+- Real-time streaming data
+- **Praktikum:** AI-powered financial dashboard
 
-### **7-ci həftə: Mühasibat Proqramları və Avtomatlaşdırma (3 saat)**
-- Azerbaycanda istifadə olunan mühasibat proqramları
-- Cloud-based mühasibat həlləri
-- API inteqrasiyası və avtomatlaşdırma
-- **Praktikum:** Kiçik biznes üçün mühasibat sisteminin seçimi
+### **7-ci həftə: IoT və Asset Management (3 saat)**
+- Internet of Things in Finance
+- Smart asset tracking
+- Predictive maintenance accounting
+- **Praktikum:** IoT sensor data analysis
 
-### **8-ci həftə: Dashboard və Vizuallaşdırma (3 saat)**
-- Dashboard dizayn prinsipləri
-- Power BI əsasları
-- İnteraktiv hesabatların yaradılması
-- **Praktikum:** İdarəedici dashboard yaradılması
+### **8-ci həftə: API Integration və Low-Code Development (3 saat)**
+- RESTful API-lər və GraphQL
+- Microsoft Power Platform
+- Zapier automation workflows
+- **Praktikum:** Multi-platform data integration
 
-### **9-cu həftə: Data Analizi və Proqnozlaşdırma (3 saat)**
-- Trend analizi metodları
-- Regression analizi
-- Monte Carlo simulyasiyası
-- **Praktikum:** Satış proqnozlaşdırma modeli
+### **9-cu həftə: Cybersecurity və Data Privacy (3 saat)**
+- Financial data security
+- GDPR və data protection
+- Zero-trust security model
+- **Praktikum:** Security audit checklist
 
 ### **10-cu həftə: Aralıq Qiymətləndirmə (3 saat)**
-- Aralıq imtahan (90 dəqiqə)
-- Praktik tapşırıqların təqdimatı
-- Qrup müzakirələri
+- AI-powered assessment tool
+- Practical demonstrations
+- Peer code review sessions
 
-### **11-ci həftə: Case Study - Bank Sektoru (3 saat)**
-- Bank məhsullarının gəlirlilik analizi
-- Müştəri segment analizi
-- Risk idarəetməsi göstəriciləri
-- **Praktikum:** Bank filialının performans analizi
+### **11-ci həftə: AR/VR və Immersive Analytics (3 saat)**
+- Virtual Reality for data visualization
+- Augmented Reality reporting
+- Mixed Reality collaboration
+- **Praktikum:** VR financial data exploration
 
-### **12-ci həftə: Case Study - İstehsal Müəssisəsi (3 saat)**
-- İstehsal xərclərinin optimallaşdırılması
-- Supply chain cost analysis
-- Quality cost management
-- **Praktikum:** İstehsal şirkətinin cost center analizi
+### **12-ci həftə: Quantum Computing Readiness (3 saat)**
+- Quantum computing fundamentals
+- Quantum algorithms for optimization
+- Post-quantum cryptography
+- **Praktikum:** Quantum simulation exercises
 
-### **13-cü həftə: Final Layihə Hazırlama (3 saat)**
-- Layihə mövzularının seçimi
-- Metodologiya və yanaşmanın müəyyənləşdirilməsi
-- Data toplama və təhlil
-- **Praktikum:** Fərdi layihə üzərində işləmə
+### **13-cü həftə: Metaverse və Digital Economy (3 saat)**
+- Web3 business models
+- NFT accounting standards
+- Virtual world economies
+- **Praktikum:** Metaverse business plan
 
-### **14-cü həftə: Layihə Təqdimatları (3 saat)**
-- Tələbə təqdimatları (hər tələbə 10 dəqiqə)
-- Peer review və qiymətləndirmə
-- Best practice paylaşımı
-- **Praktikum:** Professional portfolio hazırlama
+### **14-cü həftə: Final AI Project (3 saat)**
+- Comprehensive AI solution development
+- Industry presentation preparation
+- Peer review və feedback
 
-### **15-ci həftə: Final İmtahan və Nəticələr (3 saat)**
-- Final imtahan (120 dəqiqə)
-- Fənn nəticələrinin müzakirəsi
-- Karyera məsləhətləri və tövsiyələr
+### **15-ci həftə: Future-Ready Assessment (3 saat)**
+- Advanced scenario-based examination
+- Innovation showcase
+- Career pathway discussions
 
-## 📚 Əsas Ədəbiyyat
-
-### 📖 **Məcburi Kitablar:**
-1. **Drury, C.** - "Management and Cost Accounting" (10th Edition, 2018)
-2. **Horngren, C.T.** - "Cost Accounting: A Managerial Emphasis" (16th Edition, 2019)
-3. **Kaplan, R.S. & Norton, D.P.** - "Balanced Scorecard" (2019)
-
-### 📱 **Elektron Resurslar:**
-- Microsoft Excel 365 Online Training
-- Power BI Learning Path (Microsoft Learn)
-- Azerbaijan Tax Code və Mühasibat Standartları
-- International Financial Reporting Standards (IFRS)
-
-### 🌐 **Əlavə Mənbələr:**
-- Harvard Business Review Articles
-- Management Accounting Research Journal
-- Institute of Management Accountants (IMA) Resources
-
-## 🎯 Öyrənmə Nəticələri
-
-Bu fənni uğurla başa çatdıran tələbələr aşağıdakı bilik və bacarıqlara sahib olacaqlar:
-
-### **Bilik və Anlama (Knowledge & Understanding):**
-- İdarəetmə uçotunun əsas konsepsiyalarını başa düşmək
-- Xərc davranışı və maya dəyəri metodlarını analiz etmək
-- Budgetləşdirmə və performans ölçmə prinsiplərini tətbiq etmək
-- E-mühasibatlıq sistemlərinin üstünlüklərini qiymətləndirmək
-
-### **Praktik Bacarıqlar (Skills & Application):**
-- Excel-də mürəkkəb maliyyə modellərini hazırlamaq
-- Professional dashboard və hesabatlar yaratmaq
-- Mühasibat proqramlarından səmərəli istifadə etmək
-- Data analizi və vizuallaşdırma texnikalarını tətbiq etmək
-
-### **Peşəkar Kompetensiyalar (Professional Competencies):**
-- Biznes qərarlarında dəstək olmaq üçün maliyyə məlumatlarını təhlil etmək
-- Müxtəlif maraqda olan tərəflərə hesabat hazırlamaq
-- Texnoloji həlləri biznes ehtiyacları ilə uyğunlaşdırmaq
-- Etik və professional standartları gözləmək
-
-## 📊 Qiymətləndirmə Sistemi
+## 🛠️ Müasir Texnoloji Alətlər və Platformalar
 
 ```mermaid
-pie title Qiymetlendirme Paylasdirmasi (100 bal)
-    "Araliq Imtahan" : 25
-    "Final Imtahan" : 35
-    "Praktik Tapshiriqlar" : 20
-    "Final Layihesi" : 15
-    "Davamiyyat ve Ishtirak" : 5
+graph TD
+    A[Muasir Texnoloji Ekosistem] --> B[AI & ML Stack]
+    A --> C[Blockchain Platforms]
+    A --> D[Cloud & Edge Computing]
+    A --> E[Automation Tools]
+    
+    B --> B1[Python TensorFlow PyTorch]
+    B --> B2[Azure Cognitive Services]
+    B --> B3[OpenAI GPT APIs]
+    B --> B4[Google AI Platform]
+    
+    C --> C1[Ethereum Hyperledger]
+    C --> C2[Solana Polygon]
+    C --> C3[Smart Contract Development]
+    C --> C4[DeFi Protocols]
+    
+    D --> D1[Azure AWS Google Cloud]
+    D --> D2[Kubernetes Docker]
+    D --> D3[Edge Computing IoT]
+    D --> D4[5G Infrastructure]
+    
+    E --> E1[UiPath Automation Anywhere]
+    E --> E2[Power Platform Low-Code]
+    E --> E3[Zapier IFTTT Integration]
+    E --> E4[GitHub Copilot AI Coding]
+    
+    style A fill:#2196f3
+    style B fill:#e91e63
+    style C fill:#4caf50
+    style D fill:#ff9800
+    style E fill:#9c27b0
 ```
 
-### **Detallı Qiymətləndirmə Komponentiləri:**
+## 🚀 Müasir Proqramlaşdırma və Alətlər
 
-| **Komponent** | **Çəki** | **Təfərrüat** |
-|---------------|-----------|---------------|
-| **Aralıq İmtahan** | 25% | Nəzəri biliklər və hesablama məsələləri |
-| **Final İmtahan** | 35% | Comprehensive exam + case study analysis |
-| **Həftəlik Praktikumlar** | 20% | 8 praktik tapşırıq (hər biri 2.5 bal) |
-| **Final Layihəsi** | 15% | Real şirkət məlumatları ilə analiz |
-| **Davamiyyat/İştirak** | 5% | Dərs fəallığı və vaxtında tapşırıq təslimi |
+### **💻 Programming Languages:**
+- **Python:** pandas, numpy, scikit-learn, TensorFlow
+- **R:** Financial modeling və statistical analysis
+- **JavaScript:** Modern web dashboards
+- **SQL:** Advanced database querying
+- **Solidity:** Smart contract development
 
-### **Qiymətləndirmə Şkalası:**
-- **A (90-100 bal):** Əla - Bütün materialları mükəmməl mənimsəmə
-- **B (80-89 bal):** Yaxşı - Materialları yaxşı mənimsəmə, kiçik çatışmazlıqlar
-- **C (70-79 bal):** Orta - Əsas materialları mənimsəmə, bəzi problemlər
-- **D (60-69 bal):** Zəif - Minimum tələblərə cavab vermə
-- **F (0-59 bal):** Kəsilmə - Tələblərə cavab verməmə
+### **🤖 AI/ML Platforms:**
+- **Microsoft Azure AI:** Cognitive Services, AutoML
+- **Google AI Platform:** Vertex AI, BigQuery ML
+- **OpenAI API:** GPT-4, DALL-E integration
+- **Hugging Face:** Pre-trained model deployment
 
-## 🛠️ Praktikum Tapşırıqları
+### **⛓️ Blockchain Tools:**
+- **Ethereum Development:** Remix, Truffle, Hardhat
+- **DeFi Protocols:** Uniswap, Compound, AAVE
+- **Wallet Integration:** MetaMask, WalletConnect
+- **Analytics:** Etherscan, DeFiPulse
 
-### **Tapşırıq 1:** Excel Maya Dəyəri Kalkulyatoru
-- **Məqsəd:** Əsas maya dəyəri hesablamaları
-- **Alətlər:** Excel, VLOOKUP, SUM functions
-- **Müddət:** 1 həftə
+### **☁️ Cloud Platforms:**
+- **Microsoft Azure:** AI Services, DevOps, Power Platform
+- **Amazon AWS:** Lambda, SageMaker, QuickSight
+- **Google Cloud:** BigQuery, Data Studio, AI Platform
+- **Hybrid Solutions:** Multi-cloud architecture
 
-### **Tapşırıq 2:** Budget vs Actual Variance Analysis
-- **Məqsəd:** Budget performansının analizi
-- **Alətlər:** Excel, Conditional Formatting, Charts
-- **Müddət:** 1 həftə
+## 📚 Müasir Ədəbiyyat və Resurslar
 
-### **Tapşırıq 3:** KPI Dashboard Power BI
-- **Məqsəd:** İnteraktiv performans dashboard
-- **Alətlər:** Power BI Desktop, DAX functions
+### 📖 **Məcburi Kitablar:**
+1. **Russell, S. & Norvig, P.** - "Artificial Intelligence: A Modern Approach" (4th Edition, 2024)
+2. **Antonopoulos, A. & Wood, G.** - "Mastering Ethereum" (2nd Edition, 2023)
+3. **Provost, F. & Fawcett, T.** - "Data Science for Business" (2024)
+
+### 🌐 **Online Platformalar:**
+- **Coursera:** AI for Finance Specialization
+- **edX:** MIT Blockchain Technologies
+- **Udacity:** Machine Learning Engineer Nanodegree
+- **Pluralsight:** Power Platform Developer Path
+
+### 📱 **Praktik Resurslar:**
+- **GitHub:** Open source financial ML models
+- **Kaggle:** Financial datasets və competitions
+- **Medium:** Latest fintech articles
+- **Stack Overflow:** Developer community support
+
+### 🏆 **Sertifikatlaşdırma Yolları:**
+- **Microsoft:** Azure AI Engineer Associate
+- **Google:** Professional Machine Learning Engineer
+- **Amazon:** AWS Certified Machine Learning
+- **Ethereum:** Certified Ethereum Developer
+
+## 🎯 Müasir Öyrənmə Nəticələri
+
+### **AI və Automation Bacarıqları:**
+- Süni zəka modellərini maliyyə sahəsində tətbiq etmək
+- RPA alətləri ilə mühasibat proseslərini avtomatlaşdırmaq
+- Machine learning ilə maliyyə proqnozları hazırlamaq
+- Chatbot və virtual assistant tərtib etmək
+
+### **Blockchain və Web3 Bilikləri:**
+- Smart contract-lar yazmaq və deploy etmək
+- Cryptocurrency və DeFi əməliyyatlarını uçota almaq
+- NFT və digital asset-ləri idarə etmək
+- Blockchain əsaslı audit sistemləri qurmaq
+
+### **Cloud və DevOps Səriştələri:**
+- Multi-cloud architecture dizayn etmək
+- Containerization və microservices istifadə etmək
+- CI/CD pipeline qurulması
+- Cloud security best practices tətbiq etmək
+
+### **Data Science və Analytics:**
+- Big Data işləmə və vizuallaşdırma
+- Predictive və prescriptive analytics
+- Real-time data streaming
+- A/B testing və statistical analysis
+
+## 📊 Müasir Qiymətləndirmə Sistemi
+
+```mermaid
+pie title Muasir Qiymetlendirme (100 bal)
+    "AI Project Portfolio" : 30
+    "Blockchain Smart Contract" : 20
+    "Cloud Deployment" : 15
+    "RPA Automation Task" : 15
+    "Traditional Exam" : 20
+```
+
+### **🎯 Portfolio-əsaslı Qiymətləndirmə:**
+
+| **Komponent** | **Çəki** | **Müasir Tələblər** |
+|---------------|-----------|---------------------|
+| **AI Project Portfolio** | 30% | Machine learning model + deployment |
+| **Blockchain Smart Contract** | 20% | Working DeFi application |
+| **Cloud Solution Deployment** | 15% | Scalable cloud architecture |
+| **RPA Automation** | 15% | End-to-end process automation |
+| **Comprehensive Assessment** | 20% | Scenario-based problem solving |
+
+### **🏅 Müasir Qiymətləndirmə Kriteriyaları:**
+- **Innovation Score (25%):** Yaradıcılıq və yenilik səviyyəsi
+- **Technical Proficiency (35%):** Kod keyfiyyəti və best practices
+- **Business Impact (25%):** Real-world applicability
+- **Collaboration (15%):** Teamwork və peer learning
+
+## 🛠️ Hands-on Müasir Praktikumlar
+
+### **🤖 AI Praktikum 1:** Financial Fraud Detection ML Model
+- **Texnologiyalar:** Python, TensorFlow, Azure ML
+- **Deliverable:** Working fraud detection API
+- **Müddət:** 3 həftə
+
+### **⛓️ Blockchain Praktikum 2:** DeFi Lending Protocol
+- **Texnologiyalar:** Solidity, Web3.js, MetaMask
+- **Deliverable:** Smart contract + frontend
+- **Müddət:** 3 həftə
+
+### **☁️ Cloud Praktikum 3:** Real-time Financial Dashboard
+- **Texnologiyalar:** Azure Functions, Power BI, SignalR
+- **Deliverable:** Live streaming dashboard
 - **Müddət:** 2 həftə
 
-### **Tapşırıq 4:** E-commerce Company Financial Analysis
-- **Məqsəd:** Real data ilə comprehensive analysis
-- **Alətlər:** Excel, Power BI, Statistical functions
+### **🔄 RPA Praktikum 4:** Invoice Processing Automation
+- **Texnologiyalar:** UiPath, Power Automate, OCR
+- **Deliverable:** Complete automation workflow
 - **Müddət:** 2 həftə
 
-## 👨‍🏫 Tədris Heyəti
+## 🏢 Sənaye Tərəfdaşlıqları və Real Layihələr
 
-### **Əsas Müəllim:**
-**Prof. Dr. [Müəllim Adı]**
-- Ph.D. in Accounting, [Universitet]
-- 15+ il təcrübə idarəetmə uçotu sahəsində
-- CMA (Certified Management Accountant)
-- Müəllif 25+ məqalə və 3 kitab
+### **🚀 Tech Giants:**
+- **Microsoft Azerbaijan:** Power Platform projects
+- **Google Cloud:** AI/ML implementations
+- **Amazon AWS:** Cloud infrastructure solutions
 
-### **Laboratoriya Assistenti:**
-**MSc. [Assistant Adı]**
-- Master's in Business Analytics
-- Microsoft Power BI Certified
-- 5+ il praktik təcrübə
+### **🏦 Fintech Şirkətləri:**
+- **Blockchain startups:** Smart contract development
+- **Digital banks:** API integration projects
+- **Payment systems:** Security və compliance
 
-## 📞 Əlaqə Məlumatları
-
-### **Dərs Vaxtı və Yeri:**
-- **Gün:** Çərşənbə axşamı, Cümə
-- **Vaxt:** 14:00-15:30 (Çərşənbə), 10:00-11:30 (Cümə)
-- **Otaq:** B-204, İqtisadiyyat Fakültəsi
-- **Lab:** Kompüter Lab C-105
-
-### **Müəllim İlə Əlaqə:**
-- **Email:** [muellim.email]@univ.edu.az
-- **Telefon:** +994 12 xxx xx xx
-- **Ofis Saatları:** Çərşənbə axşamı 16:00-17:00, Cümə 12:00-13:00
-- **Ofis:** B-308, İqtisadiyyat Fakültəsi
-
-### **Online Platform:**
-- **LMS:** university.blackboard.com
-- **Zoom:** Virtual Office Hours (Şənbə 10:00-11:00)
-- **Teams:** Class discussion və group work
-
-## 📝 Fənn Qaydaları və Tələbləri
-
-### **Davamiyyat:**
-- Minimum 80% davamiyyat tələb olunur
-- 3+ buraxılan dərs automatic F qiyməti
-- Gecikməyə icazə verilmir (15 dəqiqədən çox)
-
-### **Tapşırıq Təslimi:**
-- Bütün tapşırıqlar müəyyən tarixədək təslim edilməlidir
-- Gecikən tapşırıqlar gündəlik 10% bal itirir
-- Plagiarism sıfır tolerans siyasəti
-
-### **Texniki Tələblər:**
-- Laptop/desktop kompüter (Windows 10+)
-- Microsoft Excel 2019+ və ya Office 365
-- Power BI Desktop (pulsuz yükləmə)
-- İnternet əlaqəsi (online sessions üçün)
-
-### **Academic Integrity:**
-- Fərdi işlər fərdi olmalıdır
-- Qrup işlərində hər üzvün töhfəsi qeyd edilməlidir
-- Bütün mənbələr düzgün sitat edilməlidir
-- AI tools istifadəsi qeyd edilməlidir
+### **🎓 Research Partnerships:**
+- **ADA University:** AI research collaboration
+- **UNEC:** Blockchain academic projects
+- **BHOS:** IoT industrial applications
 
 ---
 
 <div align="center">
 
-![Success](https://img.shields.io/badge/Uğurlar-Fənndə-success?style=for-the-badge&logo=star)
-![Questions](https://img.shields.io/badge/Suallar-Dəstək_Üçün-blue?style=for-the-badge&logo=question-circle)
+![AI](https://img.shields.io/badge/AI-Powered-red?style=for-the-badge&logo=brain)
+![Blockchain](https://img.shields.io/badge/Blockchain-Ready-orange?style=for-the-badge&logo=bitcoin)
+![Cloud](https://img.shields.io/badge/Cloud-Native-blue?style=for-the-badge&logo=microsoft-azure)
+![Future](https://img.shields.io/badge/Future-Ready-green?style=for-the-badge&logo=rocket)
 
-**📧 Hər hansı sual üçün müəllim ilə əlaqə saxlayın**
+**🚀 Gələcəyin texnologiyalarını bu gün öyrənin!**
 
-*"Uğur ancaq həqiqi biliklər və praktik bacarıqlarla əldə edilir."*
+*"Süni zəka və blockchain texnologiyaları mühasibatlığın gələcəyini formalaşdırır."*
 
 </div>
 
 ---
 
 **Son yeniləmə:** Dekabr 2024  
-**Səhifə versiyası:** 1.0  
-**Təsdiq:** Fakültə Şurası 
+**Texnoloji versiya:** 2.0 (AI-Enhanced)  
+**Təsdiq:** Rəqəmsal Transformasiya Komitəsi
