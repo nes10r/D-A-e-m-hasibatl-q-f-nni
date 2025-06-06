@@ -15,40 +15,40 @@ Bu kurs müasir biznes mühitində rəqəmsal transformasiya, məlumat analitika
 
 ```mermaid
 mindmap
-  root((İdarəetmə Uçotu və E-Mühasibatlıq))
+  root((Idareetme Ucotu ve E-Muhasibatlig))
     [6 Fundamental Modul]
-      Modul 1: Əsaslar
+      Modul 1 Esaslar
         Management Accounting Principles
         Cost Classification Systems
         Modern Accounting Framework
         Excel Advanced Techniques
-      Modul 2: Maliyyə İdarəetməsi
+      Modul 2 Maliyye Idareetmesi
         Financial Planning & Analysis
         Budgeting & Forecasting
         Cash Flow Management
         Investment Analysis
-      Modul 3: Performans Ölçmə
+      Modul 3 Performans Olcme
         KPI Design & Implementation
         Balanced Scorecard Methodology
         Dashboard Development
         Performance Management Systems
-      Modul 4: E-Sistemlər
+      Modul 4 E-Sistemler
         ERP Systems (SAP, Dynamics)
         Business Intelligence Tools
         Data Analytics & ML
         Cloud Computing Solutions
-      Modul 5: Strateji İdarəetmə
+      Modul 5 Strateji Idareetme
         Strategic Planning Frameworks
         Risk Management
         Decision Support Systems
         Blue Ocean Strategy
-      Modul 6: Praktik Tətbiq
+      Modul 6 Praktik Tetbiq
         Real Business Projects
         Professional Portfolio
         Industry Partnerships
         Career Development
-    [Praktik Yönlümlü Təhsil]
-      Real Layihələr
+    [Praktik Yonumlu Tehsil]
+      Real Layiheler
         Banking Sector Projects
         Manufacturing Analytics
         Retail Intelligence
@@ -58,7 +58,7 @@ mindmap
         Python & R Analytics
         SAP S/4HANA
         Azure/AWS Cloud
-      Sertifikatlaşdırma
+      Sertifikatlasdirma
         Industry Recognized Certificates
         Microsoft Certifications
         Professional Endorsements
@@ -69,25 +69,25 @@ mindmap
 
 ```mermaid
 gantt
-    title 20 Həftəlik İdarəetmə Uçotu və E-Mühasibatlıq Kursu
+    title 20 Heftelik Idareetme Ucotu ve E-Muhasibatlig Kursu
     dateFormat  X
     axisFormat %w
     
     section Foundation Phase
-    Modul 1: Əsaslar                    :1, 3
+    Modul 1 Esaslar                     :1, 3
     
     section Advanced Phase  
-    Modul 2: Maliyyə İdarəetməsi         :4, 4
-    Modul 3: Performans Ölçmə            :8, 4
+    Modul 2 Maliyye Idareetmesi          :4, 4
+    Modul 3 Performans Olcme             :8, 4
     
     section Digital Phase
-    Modul 4: E-Sistemlər                 :12, 4
+    Modul 4 E-Sistemler                 :12, 4
     
     section Strategic Phase
-    Modul 5: Strateji İdarəetmə          :16, 3
+    Modul 5 Strateji Idareetme           :16, 3
     
     section Implementation Phase
-    Modul 6: Praktik Tətbiq              :19, 2
+    Modul 6 Praktik Tetbiq               :19, 2
 ```
 
 ## 🏢 Tərəfdaş Şirkətlər və Real Layihələr
@@ -173,10 +173,10 @@ graph TD
     D --> D3[Google Cloud Platform]
     D --> D4[Hybrid Cloud Solutions]
     
-    E --> E1[Python (pandas, numpy)]
-    E --> E2[R (Statistical Analysis)]
-    E --> E3[SQL (Advanced Queries)]
-    E --> E4[DAX (Power BI)]
+    E --> E1[Python pandas numpy]
+    E --> E2[R Statistical Analysis]
+    E --> E3[SQL Advanced Queries]
+    E --> E4[DAX Power BI]
     
     style A fill:#2196f3
     style B fill:#4caf50
@@ -215,17 +215,17 @@ graph TD
 - **Corporate package** (3+ nəfər): %15 endirim
 - **Alumni referral:** %10 endirim
 
-### 💼 Gözlənilən Karyera ROI:
+### 💼 Gozlenilen Karyera ROI:
 ```mermaid
 graph LR
-    A[Başlanğıc Maaş] --> B[1 il sonra]
+    A[Baslangic Maas] --> B[1 il sonra]
     A --> C[2 il sonra]
     A --> D[3 il sonra]
     
-    A --> A1[1,500-2,000 AZN<br/>Entry Level]
-    B --> B1[2,500-3,500 AZN<br/>+67% artım]
-    C --> C1[3,500-5,000 AZN<br/>+43% artım]
-    D --> D1[5,000-8,000 AZN<br/>+60% artım]
+    A --> A1[1500-2000 AZN<br/>Entry Level]
+    B --> B1[2500-3500 AZN<br/>+67% artim]
+    C --> C1[3500-5000 AZN<br/>+43% artim]
+    D --> D1[5000-8000 AZN<br/>+60% artim]
     
     style A1 fill:#ffcdd2
     style B1 fill:#fff3e0
